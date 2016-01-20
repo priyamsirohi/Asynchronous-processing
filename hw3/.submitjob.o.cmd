@@ -1,0 +1,1 @@
+cmd_/usr/src/hw3/hw3-psirohi/hw3/submitjob.o := ld -m elf_i386   -r -o /usr/src/hw3/hw3-psirohi/hw3/submitjob.o /usr/src/hw3/hw3-psirohi/hw3/queue.o /usr/src/hw3/hw3-psirohi/hw3/sys_submitjob.o /usr/src/hw3/hw3-psirohi/hw3/functionality.o 

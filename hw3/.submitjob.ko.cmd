@@ -1,0 +1,1 @@
+cmd_/usr/src/hw3/hw3-psirohi/hw3/submitjob.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds   -o /usr/src/hw3/hw3-psirohi/hw3/submitjob.ko /usr/src/hw3/hw3-psirohi/hw3/submitjob.o /usr/src/hw3/hw3-psirohi/hw3/submitjob.mod.o
